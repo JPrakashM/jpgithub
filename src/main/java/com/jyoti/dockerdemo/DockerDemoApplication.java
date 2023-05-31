@@ -10,6 +10,7 @@ public class DockerDemoApplication {
 		SpringApplication.run(DockerDemoApplication.class, args);
 	}
 
+
 }
 
 
